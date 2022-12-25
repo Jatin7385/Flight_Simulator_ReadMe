@@ -1,5 +1,8 @@
 # Rocket Flight-Simulator
 
+# Methodology
+The flight simulator is being developed using Python. The software uses the thrust curve data, Rocket data to run a simulation loop, which calculates all the variables at each time step, thus simulating the entire Flight.
+
 # Thrust curve of Estes F-15 rocket motor used to develop and test the simulator
 <img width="945" alt="image" src="https://user-images.githubusercontent.com/73430464/174431943-57a3e36b-72b0-4e1f-98d1-c6ebe4b95ecb.png">
 
